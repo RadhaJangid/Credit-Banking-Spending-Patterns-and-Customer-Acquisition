@@ -77,11 +77,11 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Credit Card Product</td>
-        <td>Different types of credit cards: Gold, Platimum, Silver</td>
+        <td>Types of Credit Cards</td>
     </tr>
     <tr>
         <td>Limit</td>
-        <td>the maximum amount that a customer can spend on his or her Credit Card</td>
+        <td>Credit Card Limit</td>
     </tr>
     <tr>
         <td>Company</td>
