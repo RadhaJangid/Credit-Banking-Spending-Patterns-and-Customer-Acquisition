@@ -90,8 +90,61 @@ continuous guidance and support throughout the project.
     <tr>
         <td>Segment</td>
         <td></td>
+    </tr>    
+  </table>
+</div>
+<div class="w3-container">
+  <h2>'Spend'</h2>
+  <table class="w3-table-all w3-card-4">
+    <tr>
+      <th>Field</th>
+      <th>Description</th>
     </tr>
-      
+    <tr>
+      <td>Sl No:</td>
+      <td>Count of rows</td>
+    </tr>
+    <tr>
+      <td>Costomer</td>
+      <td>Name of Customer</td>
+    </tr>
+    <tr>
+      <td>Month</td>
+      <td>Age of Customer</td>
+    </tr>
+    <tr>
+      <td>Type</td>
+      <td>Customer's City</td>
+    </tr>
+    <tr>
+        <td>Amount</td>
+        <td></td>
+    </tr>
+  </table>
+</div>
+<div class="w3-container">
+  <h2>'Repayment'</h2>
+  <table class="w3-table-all w3-card-4">
+    <tr>
+      <th>Field</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>SL No:</td>
+      <td>Count of rows</td>
+    </tr>
+    <tr>
+      <td>Costomer</td>
+      <td>Name of Customer</td>
+    </tr>
+    <tr>
+      <td>Month</td>
+      <td>Age of Customer</td>
+    </tr>
+    <tr>
+        <td>Amount</td>
+        <td></td>
+    </tr>
   </table>
 </div>
 
