@@ -118,7 +118,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Amount</td>
-        <td></td>
+        <td>Spend of Customer</td>
     </tr>
   </table>
 </div>
@@ -143,7 +143,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Amount</td>
-        <td></td>
+        <td>Customer's Repayment</td>
     </tr>
   </table>
 </div>
