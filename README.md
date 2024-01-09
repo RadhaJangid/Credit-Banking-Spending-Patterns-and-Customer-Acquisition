@@ -52,9 +52,9 @@ continuous guidance and support throughout the project.
 </p>
 
 ## INTRODUCTION
-#### About The Project -
-#### Scope
-#### About the Organization - 
+### About The Project -
+### Scope
+### About the Organization - 
 <p>
     Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
@@ -165,6 +165,9 @@ delivering training to aspiring Graduates. </p>
 
 ## DATA ANALYTICS PROCESS
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400"> 
+
+## METHODOLOGY
+### Objective
 
 
 
