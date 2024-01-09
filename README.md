@@ -52,7 +52,17 @@ continuous guidance and support throughout the project.
 </p>
 
 ## INTRODUCTION
-### ABOUT THE PROJECT -
+#### About The Project -
+#### Scope
+#### About the Organization - 
+<p>
+    Edulyt India is an early age start-up working towards reducing the Gap between Education & 
+Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
+management sector mainly focused on the field of Analytics. 
+Our core area of working is in Data Analytics for BFSI domain. 
+Our team is working on basic AI tools to make the world a better easier place to live. Our core 
+expertise lies in making the Graduates industry ready. We are highly skilled and trained in 
+delivering training to aspiring Graduates. </p>
 
 
 ## DATASET USED
