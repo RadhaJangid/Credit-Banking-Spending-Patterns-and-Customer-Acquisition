@@ -50,7 +50,31 @@ them who have made this Project possible.</p>
 Chaudhary</b> for providing me this wonderful opportunity to work on this project and for their 
 continuous guidance and support throughout the project.
 </p>
-    
+
+## DATASET USED
+<div class="w3-container">
+  <table class="w3-table-all w3-card-4">
+    <tr>
+      <th>Field</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Sl No:</td>
+      <td>Sl No: is count of rows</td>
+    </tr>
+    <tr>
+      <td>Customer</td>
+      <td>Name of Customer</td>
+    </tr>
+    <tr>
+      <td>Age</td>
+      <td>Age of Customer</td>
+    </tr>
+  </table>
+</div>
+
+
+
 ## DATA ANALYTICS PROCESS
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400"> 
 
