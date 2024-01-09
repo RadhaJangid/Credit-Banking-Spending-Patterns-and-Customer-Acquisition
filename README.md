@@ -60,7 +60,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
       <td>Sl No:</td>
-      <td>Sl No: is count of rows</td>
+      <td>Count of rows</td>
     </tr>
     <tr>
       <td>Customer</td>
@@ -70,6 +70,27 @@ continuous guidance and support throughout the project.
       <td>Age</td>
       <td>Age of Customer</td>
     </tr>
+    <tr>
+      <td>City</td>
+      <td>Customer's City</td>
+    </tr>
+    <tr>
+        <td>Credit Card Product</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Limit</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Company</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Segment</td>
+        <td></td>
+    </tr>
+      
   </table>
 </div>
 
