@@ -24,7 +24,8 @@
       <li>Spend</li>
       <li>Repayment</li>
     </ol>
-    <li>METHODOLOGY</li>
+    <li><h4>DATA ANALYTICS PROCESS</h4></li>
+    <li><h4>METHODOLOGY</h4></li>
     <ol type="i">
     <li>OBJECTIVE</li>
     <li>DATA GATHERING</li>
