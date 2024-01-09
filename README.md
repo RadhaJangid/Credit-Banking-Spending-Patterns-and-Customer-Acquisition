@@ -77,15 +77,15 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Credit Card Product</td>
-        <td></td>
+        <td>Different types of credit cards: Gold, Platimum, Silver</td>
     </tr>
     <tr>
         <td>Limit</td>
-        <td></td>
+        <td>the maximum amount that a customer can spend on his or her Credit Card</td>
     </tr>
     <tr>
         <td>Company</td>
-        <td></td>
+        <td>Name of the Company</td>
     </tr>
     <tr>
         <td>Segment</td>
@@ -139,11 +139,11 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
       <td>Month</td>
-      <td>Age of Customer</td>
+      <td></td>
     </tr>
     <tr>
         <td>Amount</td>
-        <td>Customer's Repayment</td>
+        <td>The amount repaid by the customer to the bank</td>
     </tr>
   </table>
 </div>
