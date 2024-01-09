@@ -41,7 +41,7 @@
             <li>Merging Data</li>
             <li>Defining Relationship In Data</li>
         </ol>
-    <li>DATA ANALYSIS AND BUSINESS INSIDES</li>
+    <li>DATA ANALYSIS AND BUSINESS INSIDES</li>    
 </ol>
 
 
