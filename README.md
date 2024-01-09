@@ -91,9 +91,9 @@ continuous guidance and support throughout the project.
         <td>Customer Occupation</td>
     </tr>    
   </table>
-</div><br>
+</div>
 <i><b>Table-1 : Customer Acqusition</b></i>
-<div class="w3-container">
+<div class="w3-container"><br>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -120,9 +120,9 @@ continuous guidance and support throughout the project.
         <td>Spend of Customer</td>
     </tr>
   </table>
-</div><br>
+</div>
 <i><b>Table-2 : Spend</b></i>
-<div class="w3-container">
+<div class="w3-container"><br>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
