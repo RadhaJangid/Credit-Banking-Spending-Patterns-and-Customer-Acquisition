@@ -114,7 +114,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
       <td>Type</td>
-      <td>Customer's City</td>
+      <td>Types of Expenses</td>
     </tr>
     <tr>
         <td>Amount</td>
@@ -143,7 +143,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Amount</td>
-        <td>The amount repaid by the customer to the bank</td>
+        <td>Credit Card Payment Amount</td>
     </tr>
   </table>
 </div>
