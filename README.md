@@ -27,7 +27,7 @@
     <li><h4>DATA ANALYTICS PROCESS</h4></li>
     <li><h4>METHODOLOGY</h4></li>
     <ol type="i">
-    <li>OBJECTIVE</li>
+    <li>Objective</li>
     <li>Data Gathering</li>
     <li>Data Cleaning</li>
     <li>Field Level Analysis</li>
@@ -36,12 +36,12 @@
             <li>Handling Outliers</li>
             <li>Data Type Analysis</li>
         </ol>
-    <li>DATA CONSOLIDATION</li>
+    <li>Data Consolidation</li>
         <ol>
             <li>Merging Data</li>
             <li>Defining Relationship In Data</li>
         </ol>
-    <li>DATA ANALYSIS AND BUSINESS INSIDES</li>    
+    <li>Data Analysis And Business Insides</li>    
 </ol>
 
 
