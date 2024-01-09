@@ -28,18 +28,18 @@
     <li><h4>METHODOLOGY</h4></li>
     <ol type="i">
     <li>OBJECTIVE</li>
-    <li>DATA GATHERING</li>
-    <li>DATA CLEANING</li>
-    <li>FIELD LEVEL ANALYSIS</li>
+    <li>Data Gathering</li>
+    <li>Data Cleaning</li>
+    <li>Field Level Analysis</li>
         <ol>
-            <li>MISSING VALUE TREATEMENT</li>
-            <li>HANDLING OUTLIERS</li>
-            <li>DATA TYPE ANALYSIS</li>
+            <li>Missing Value Treatement</li>
+            <li>Handling Outliers</li>
+            <li>Data Type Analysis</li>
         </ol>
     <li>DATA CONSOLIDATION</li>
         <ol>
-            <li>MERGING DATA</li>
-            <li>DEFINING RELATIONSHIP IN DATA</li>
+            <li>Merging Data</li>
+            <li>Defining Relationship In Data</li>
         </ol>
     <li>DATA ANALYSIS AND BUSINESS INSIDES</li>
 </ol>
