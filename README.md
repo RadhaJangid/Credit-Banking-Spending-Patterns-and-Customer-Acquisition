@@ -24,6 +24,21 @@
       <li>Spend</li>
       <li>Repayment</li>
     </ol>
+    <li>METHODOLOGY</li>
+    <ol type="i">
+    <li>OBJECTIVE</li>
+    <li>DATA GATHERING</li>
+    <li>DATA CLEANING</li>
+    <li>FIELD LEVEL ANALYSIS</li>
+    <li>MISSING VALUE TREATEMENT</li>
+    <li>HANDLING OUTLIERS</li>
+    <li>DATA TYPE ANALYSIS</li>
+    <li>DATA CONSOLIDATION</li>
+    <li>MERGING DATA</li>
+    <li>DEFINING RELATIONSHIP IN DATA</li>
+    <li>DATA ANALYSIS AND BUSINESS INSIDES</li>
+        
+    </ol>
 </ol>
 
              
