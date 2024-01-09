@@ -29,23 +29,19 @@
     <li>OBJECTIVE</li>
     <li>DATA GATHERING</li>
     <li>DATA CLEANING</li>
-    <li>FIELD LEVEL ANALYSIS
+    <li>FIELD LEVEL ANALYSIS</li>
         <ol>
             <li>MISSING VALUE TREATEMENT</li>
             <li>HANDLING OUTLIERS</li>
             <li>DATA TYPE ANALYSIS</li>
         </ol>
-    </li>
-    
-    <li>DATA CONSOLIDATION
+    <li>DATA CONSOLIDATION</li>
         <ol>
             <li>MERGING DATA</li>
             <li>DEFINING RELATIONSHIP IN DATA</li>
         </ol>
-    </li>
     <li>DATA ANALYSIS AND BUSINESS INSIDES</li>
-        
-    </ol>
+</ol>
 
 
              
