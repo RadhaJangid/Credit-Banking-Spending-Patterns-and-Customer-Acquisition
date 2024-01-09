@@ -89,7 +89,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
         <td>Segment</td>
-        <td></td>
+        <td>Customer Occupation</td>
     </tr>    
   </table>
 </div>
