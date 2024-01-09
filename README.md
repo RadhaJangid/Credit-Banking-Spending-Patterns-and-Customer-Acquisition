@@ -45,7 +45,7 @@
 </ol>
     
 ## DATA ANALYTICS PROCESS
-<img src="img_girl.jpg" alt="Data Analytics Process" width="500" height="500"> 
+<img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="500"> 
 
 
              
