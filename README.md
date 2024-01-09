@@ -53,7 +53,7 @@ continuous guidance and support throughout the project.
 
 ## DATASET USED
 <div class="w3-container">
-  <h2>'Customer Acqusition'</h2>
+  <i>Table-1 : Customer Acqusition</i>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -94,7 +94,7 @@ continuous guidance and support throughout the project.
   </table>
 </div>
 <div class="w3-container">
-  <h2>'Spend'</h2>
+  <i>Table-2 : Spend</i>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -123,7 +123,7 @@ continuous guidance and support throughout the project.
   </table>
 </div>
 <div class="w3-container">
-  <h2>'Repayment'</h2>
+  <i>Table-3 : Repayment</i>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
