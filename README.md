@@ -110,7 +110,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
       <td>Month</td>
-      <td>Age of Customer</td>
+      <td>Date</td>
     </tr>
     <tr>
       <td>Type</td>
@@ -139,7 +139,7 @@ continuous guidance and support throughout the project.
     </tr>
     <tr>
       <td>Month</td>
-      <td></td>
+      <td>Credit Card Payment Date</td>
     </tr>
     <tr>
         <td>Amount</td>
