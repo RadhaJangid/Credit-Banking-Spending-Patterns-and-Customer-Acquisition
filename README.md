@@ -14,17 +14,17 @@
     <li><h3>ABSTRACT</h3></li>
     <li>ACKNOWLEDGMENT</li>
 </ul>
-<ol><li>INTRODUCTION</li>
+<ol><li><h3>INTRODUCTION</h3></li>
     <ol type="i">
       <li>About The Project</li>
       <li>Scope</li>
       <li>About the Organization</li>
     </ol>
-    <li>INTRODUCTION</li>
+    <li><h3>DATASET USED</h3></li>
     <ol type="i">
-      <li>About The Project</li>
-      <li>Scope</li>
-      <li>About the Organization</li>
+      <li>Customer Acquisition</li>
+      <li>Spend</li>
+      <li>Repayment</li>
     </ol>
 </ol>
 
