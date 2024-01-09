@@ -53,7 +53,6 @@ continuous guidance and support throughout the project.
 
 ## DATASET USED
 <div class="w3-container">
-  <i><b>Table-1 : Customer Acqusition</b></i><br>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -92,9 +91,8 @@ continuous guidance and support throughout the project.
         <td>Customer Occupation</td>
     </tr>    
   </table>
-</div>
+</div><i><b>Table-1 : Customer Acqusition</b></i>
 <div class="w3-container">
-  <i>Table-2 : Spend</i>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -121,9 +119,8 @@ continuous guidance and support throughout the project.
         <td>Spend of Customer</td>
     </tr>
   </table>
-</div>
+</div><i><b>Table-2 : Spend</b></i>
 <div class="w3-container">
-  <i>Table-3 : Repayment</i>
   <table class="w3-table-all w3-card-4">
     <tr>
       <th>Field</th>
@@ -146,7 +143,7 @@ continuous guidance and support throughout the project.
         <td>Credit Card Payment Amount</td>
     </tr>
   </table>
-</div>
+</div><i><b>Table-3 : Repayment</b></i>
 
 
 
