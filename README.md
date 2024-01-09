@@ -11,16 +11,16 @@
     </ul> 
 # TABLE OF CONTENTS
 <ul>
-    <li><h3>ABSTRACT</h3></li>
-    <li>ACKNOWLEDGMENT</li>
+    <li><h4>ABSTRACT</h4></li>
+    <li><h4>ACKNOWLEDGMENT</h4></li>
 </ul>
-<ol><li><h3>INTRODUCTION</h3></li>
+<ol><li><h4>INTRODUCTION</h4></li>
     <ol type="i">
       <li>About The Project</li>
       <li>Scope</li>
       <li>About the Organization</li>
     </ol>
-    <li><h3>DATASET USED</h3></li>
+    <li><h4>DATASET USED</h4></li>
     <ol type="i">
       <li>Customer Acquisition</li>
       <li>Spend</li>
