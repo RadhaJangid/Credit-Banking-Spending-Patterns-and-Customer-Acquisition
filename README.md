@@ -9,7 +9,6 @@
     
 # TABLE OF CONTENTS
 <ul>
-    <li><h4>ABSTRACT</h4></li>
     <li><h4>ACKNOWLEDGMENT</h4></li>
 </ul>
 <ol><li><h4>INTRODUCTION</h4></li>
@@ -43,9 +42,18 @@
         </ol>
     <li>Data Analysis And Business Insides</li>    
 </ol>
+
+## ACKNOWLEDGMENT
+<p>There are many people who contributed to my work on this report. I owe my gratitude to all of 
+them who have made this report possible.
+I am grateful to the entire team at <span>Edulyt India</span> for providing necessary facilities and permitting me to carry out this project in the organization. I would especially like to thank <span>Mr. Lalit 
+Chaudhary</span> for providing me this wonderful opportunity to work on this project and for their 
+continuous guidance and support throughout the project.
+</p>
     
 ## DATA ANALYTICS PROCESS
-<img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="450" height="400"> 
+<img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400"> 
+
 
 
              
