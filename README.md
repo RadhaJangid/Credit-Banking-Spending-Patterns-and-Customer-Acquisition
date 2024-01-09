@@ -11,7 +11,7 @@
     </ul> 
 # TABLE OF CONTENTS
 <ul>
-    <li><h3></h3>ABSTRACT</h3></li>
+    <li><h3>ABSTRACT</h3></li>
     <li>ACKNOWLEDGMENT</li>
 </ul>
 <ol><li>INTRODUCTION</li>
