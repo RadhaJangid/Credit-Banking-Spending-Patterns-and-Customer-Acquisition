@@ -14,6 +14,19 @@
     <li>ABSTRACT</li>
     <li>ACKNOWLEDGMENT</li>
 </ul>
+<ol><li>INTRODUCTION</li>
+    <ol type="i">
+      <li>About The Project</li>
+      <li>Scope</li>
+      <li>About the Organization</li>
+    </ol>
+    <li>INTRODUCTION</li>
+    <ol type="i">
+      <li>About The Project</li>
+      <li>Scope</li>
+      <li>About the Organization</li>
+    </ol>
+</ol>
 
              
 
