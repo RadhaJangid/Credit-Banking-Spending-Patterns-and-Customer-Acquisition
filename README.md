@@ -166,8 +166,7 @@ delivering training to aspiring Graduates. </p>
 ## DATA ANALYTICS PROCESS
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400"> 
 
-## METHODOLOGY
-### Objective
+
 
 
 
