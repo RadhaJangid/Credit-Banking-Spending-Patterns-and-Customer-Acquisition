@@ -44,9 +44,9 @@
 </ol>
 
 ## ACKNOWLEDGMENT
-<p>There are many people who contributed to my work on this report. I owe my gratitude to all of 
-them who have made this report possible.
-I am grateful to the entire team at <span>Edulyt India</span> for providing necessary facilities and permitting me to carry out this project in the organization. I would especially like to thank <span>Mr. Lalit 
+<p>There are many people who contributed to my work on this Project. I owe my gratitude to all of 
+them who have made this Project possible.</p>
+<p> I am grateful to the entire team at <span>Edulyt India</span> for providing necessary facilities and permitting me to carry out this project in the organization. I would especially like to thank <span>Mr. Lalit 
 Chaudhary</span> for providing me this wonderful opportunity to work on this project and for their 
 continuous guidance and support throughout the project.
 </p>
