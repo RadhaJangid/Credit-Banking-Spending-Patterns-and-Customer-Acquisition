@@ -214,6 +214,7 @@ Then we will read data from different sheets using read_excel() function and sto
                 </ol>
      </li>
 </ul>
+<h2>MERGING DATA</h2>
 
 
 
