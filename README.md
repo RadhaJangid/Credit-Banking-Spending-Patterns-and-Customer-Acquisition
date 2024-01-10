@@ -195,47 +195,22 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
 <h2>Basic Data Analysis</h2>
-<h3>Table-1 : Customer Acqusition</h3>
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
     <li>Checking data types of all columns.</li>
     <li>Consize summary of dataframe.</li>
-    <li>Check descriptive statistics of numerical variables.
-        <h4> Observation : </h4>
-        <ul>
-            <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count 
-                of rows hence we can ignore this column.</li>
-            <li>The average age is 40.146505 but there are 22 customers in the dataset who are below 18 
-                years, this is an invalid value for the age column because the age must be at least 18 years 
-                to hold a credit card, so they are not eligible to hold the card.Therefore descriptive 
-                statistics(25%-50%-75%) is not appropriate.</li>
-        </ul>      
-    </li> 
-    <li>Missing data :- Initial intuition   
-        <ul>
-            <li>Here we don't have missing data.</li>
-        </ul>
-    </li>
+    <li>Check descriptive statistics of numerical variables.</li> 
+    <li>Missing data :- Initial intuition</li>
     <li>Data Cleaning
                 <ol>
                     <li>Create a copy of base data for manupulation & processing.</li>
-                    <li>Invalid / Missing data
-                        <ul>
-                            <li>Provide a meaningful treatment to all values where age is less than 18.</li>
-                            <p>As we can see there are 22 customers who are below 18 years of age so we have                                  to handle this invalid data:-</p>
-                                <ul>
-                                    <li>Droping of these records are not a good solution because we only have 
-                                        100 records if we do so it can be a reason of information loss.</li>
-                                    <li>One of the solution is we can impute these entries using mean/median. 
-                                        </li>
-                                    <li>As we can see our data is free from outliers. In this case mean can 
-                                        be a good choise to impute.</li>
-                                </ul>
-                                
-                                
-                        </ul>
-                    </li>
+                    <li>Converting the date into year and month columns</li>
+                    <li>Rename Costomer column as Customer</li>
+                    <li>Invalid / Missing data</li>
+                    <li>Invalid value Treatment</li>
+                    <li>Feature Binning</li>
+                    <li>Remove columns not required for processing.</li>
                 </ol>
      </li>
 </ul>
