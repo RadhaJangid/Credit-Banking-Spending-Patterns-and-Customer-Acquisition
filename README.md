@@ -231,6 +231,8 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Build a corelation of all predictors.</li>
 </ol>
 
+# ACTIONABLE INSIGHTS
+
 
 
 
