@@ -234,9 +234,8 @@ Then we will read data from different sheets using read_excel() function and sto
 # ACTIONABLE INSIGHTS
 <ul>
     <li>We have analysed that A13, A22, A39, A40, A41, A42, A45, A48, A60, A61 these are 
-        top 10 monthly spenders. </li>
+        top 10 monthly spenders.</li>
     <li>In the month of January, the spending is high.</li>
-    <li></li>
     <li>We have analysed that A22, A40, A41, A3, A45, A47, A48, A49, A60, A61 these are 
         top 10 monthly repay customers.</li>
     <li>In the month of January, the repay amount is high.</li>
