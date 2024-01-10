@@ -203,7 +203,7 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Check descriptive statistics of numerical variables.</li> 
     <li>Missing data :- Initial intuition</li>
     <li>Data Cleaning
-                <ol>
+                <ol type = "1">
                     <li>Create a copy of base data for manupulation & processing.</li>
                     <li>Converting the date into year and month columns</li>
                     <li>Rename Costomer column as Customer</li>
