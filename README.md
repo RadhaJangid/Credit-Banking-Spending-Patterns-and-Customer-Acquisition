@@ -211,12 +211,34 @@ Then we will read data from different sheets using read_excel() function and sto
                 to hold a credit card, so they are not eligible to hold the card.Therefore descriptive 
                 statistics(25%-50%-75%) is not appropriate.</li>
         </ul>      
-    </li>
-    <li> Missing data :- Initial intuition   
+    </li> 
+    <li>Missing data :- Initial intuition   
         <ul>
             <li>Here we don't have missing data.</li>
         </ul>
     </li>
+    <li>Data Cleaning
+        <ul>
+            <li>
+                <ol>
+                    <li>Create a copy of base data for manupulation & processing.</li>
+                    <li>Invalid / Missing data
+                        <ul>
+                            <li>Provide a meaningful treatment to all values where age is less than 18.</li>
+                            <p>As we can see there are 22 customers who are below 18 years of age so we have                                  to handle this invalid data:-
+                                Droping of these records are not a good solution because we only have 100                                     records if we do so it can be a reason of information loss. 
+                                One of the solution is we can impute these entries using mean/median.
+                                As we can see our data is free from outliers. In this case mean can be a good                                 choise to impute.</p>
+                        </ul>
+                    
+                    </li>
+                    <li></li>
+                </ol>
+            </li>
+        </ul>
+    </li>
+    
+    
     
 </ul>
 
