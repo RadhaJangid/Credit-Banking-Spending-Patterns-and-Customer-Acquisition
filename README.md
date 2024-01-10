@@ -194,7 +194,7 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
     </ul>
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
-<h2>Basic Data Analysis </h2>
+<h2>Basic Data Analysis</h2>
 <h3>Table-1 : Customer Acqusition</h3>
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
@@ -202,8 +202,8 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Checking data types of all columns.</li>
     <li>Consize summary of dataframe.</li>
     <li>Check descriptive statistics of numerical variables.
+    <h4>Observation : </h4>
         <ul>
-            <p><b>Observations:</b></p>
             <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count 
                 of rows hence we can ignore this column.</li>
             <li>The average age is 40.146505 but there are 22 customers in the dataset who are below 18 
