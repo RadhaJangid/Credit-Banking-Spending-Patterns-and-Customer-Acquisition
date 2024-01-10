@@ -182,6 +182,8 @@ Then we will read data from different sheets using read_excel() function and sto
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
+    <li>Checking data types of all columns.</li>
+    <li>Consize summary of dataframe.</li>
     <li>Check descriptive statistics of numerical variables.</li>
 </ul>
 
