@@ -183,8 +183,8 @@ delivering training to aspiring Graduates. </p>
 # DATA ANALYTICS PROCESS
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400">
 
-
-## Loading Dataset- 
+# METHODOLOGY
+## Loading Dataset 
 <p>In this project we will use “Credit Banking Dataset”.
 First, we will load data from an Excel file using the Pandas.ExcelFile() function, the data is available in three worksheets. The names of the worksheets are - 
     <ul>
@@ -194,8 +194,8 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
     </ul>
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
-## Basic Data Analysis - Table-1 : Customer Acqusition
-### We will:
+## Basic Data Analysis 
+### Table-1 : Customer Acqusition
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
