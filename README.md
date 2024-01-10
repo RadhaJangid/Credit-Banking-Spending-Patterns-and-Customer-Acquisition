@@ -219,6 +219,10 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Merge Customer and Spend , Customer and Repayment</li>
     <li>Merge Customer , Spend, Repayment dataset</li>
 </ul>
+<h2>EDA(Exploratory data analysis) - Data Exploration</h2>
+<ol>
+    <li>Plot distibution of individual predictors</li>
+</ol>
 
 
 
