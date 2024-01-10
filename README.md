@@ -218,8 +218,6 @@ Then we will read data from different sheets using read_excel() function and sto
         </ul>
     </li>
     <li>Data Cleaning
-        <ul>
-            <li>
                 <ol>
                     <li>Create a copy of base data for manupulation & processing.</li>
                     <li>Invalid / Missing data
@@ -230,16 +228,9 @@ Then we will read data from different sheets using read_excel() function and sto
                                 One of the solution is we can impute these entries using mean/median.
                                 As we can see our data is free from outliers. In this case mean can be a good                                 choise to impute.</p>
                         </ul>
-                    
                     </li>
-                    <li></li>
                 </ol>
-            </li>
-        </ul>
-    </li>
-    
-    
-    
+     </li>
 </ul>
 
 
