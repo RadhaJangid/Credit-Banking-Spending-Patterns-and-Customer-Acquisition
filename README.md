@@ -204,7 +204,7 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Check descriptive statistics of numerical variables.</li>
 </ul>
 
-##### Table-1: Customer Acqusition: 
+##### Table-1: Customer Acqusition Observation: 
 <ul>
     <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count of rows 
         hence we can ignore this column.</li>
