@@ -232,6 +232,31 @@ Then we will read data from different sheets using read_excel() function and sto
 </ol>
 
 # ACTIONABLE INSIGHTS
+<ul>
+    <li>We have analysed that A13, A22, A39, A40, A41, A42, A45, A48, A60, A61 these are 
+        top 10 monthly spenders. </li>
+    <li>In the month of January, the spending is high.</li>
+    <li></li>
+    <li>We have analysed that A22, A40, A41, A3, A45, A47, A48, A49, A60, A61 these are 
+        top 10 monthly repay customers.</li>
+    <li>In the month of January, the repay amount is high.</li>
+    <li>Middle-aged customers are more likely to spend.</li>
+    <li>About 53 percent of the Amount is being paid by middle-aged customers.</li>
+    <li>Customers that having Normal Salary are spending more, followed by Salaried_Pvt and then self- 
+        Employed</li>
+    <li>Customers that having age 49.29 are spending more.</li>
+    <li>Govt is most profitable segment</li>
+    <li>A16, A18, A20, A23, A3, A30, A35, A42, A46, A5, A51, A58, A61 these are the 
+        customers who spending but not repaying in the month of December.</li>
+    <li>Some of the customers who only spend and repayment in the month of January,February, March, April.
+        </li>
+    <li>2.9% interest is calculated for any due amount of the customer</li>
+    <li>Customers who's monthly spend is more than the limit we imposed a 2% of penalty of credit limit.</li>
+    <li>Customers whose repayment is more than the spend then we give them a credit of 2% of their credit 
+       limit in month billing.</li>
+    <li>There are some negative values ​​present in the Monthly_Bank_Profit column. These negative values ​​mean          that the bank has suffered a loss.</li>
+    
+</ul>
 
 
 
