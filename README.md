@@ -232,6 +232,7 @@ Then we will read data from different sheets using read_excel() function and sto
 </ol>
 
 # ACTIONABLE INSIGHTS
+<h4>In this project we have getting the following insights:-</h4>
 <ul>
     <li>We have analysed that A13, A22, A39, A40, A41, A42, A45, A48, A60, A61 these are 
         top 10 monthly spenders.</li>
