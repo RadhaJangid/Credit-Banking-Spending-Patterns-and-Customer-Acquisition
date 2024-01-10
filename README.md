@@ -65,102 +65,119 @@ expertise lies in making the Graduates industry ready. We are highly skilled and
 delivering training to aspiring Graduates. </p>
 
 
-## DATASET USED
+## DATASET INFO
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
     <tr>
-      <th>Field</th>
-      <th>Description</th>
+      <th>COLUMN NAME</th>
+      <th>DATA TYPE</th>
+      <th>TABLE</th>
+      <th>DESCRIPTION</th>
     </tr>
     <tr>
       <td>Sl No:</td>
+      <td>integer</td>
+      <td>Customer Acqusition</td>
       <td>Count of rows</td>
     </tr>
     <tr>
       <td>Customer</td>
+      <td>string</td>
+      <td>Customer Acqusition</td>
       <td>Name of Customer</td>
     </tr>
     <tr>
       <td>Age</td>
+      <td>decimal</td>
+      <td>Customer Acqusition</td>
       <td>Age of Customer</td>
     </tr>
     <tr>
       <td>City</td>
+      <td>string</td>
+      <td>Customer Acqusition</td>
       <td>Customer's City</td>
     </tr>
     <tr>
         <td>Credit Card Product</td>
+        <td>string</td>
+        <td>Customer Acqusition</td>
         <td>Types of Credit Cards</td>
     </tr>
     <tr>
         <td>Limit</td>
+        <td>integer</td>
+        <td>Customer Acqusition</td>
         <td>Credit Card Limit</td>
     </tr>
     <tr>
         <td>Company</td>
+        <td>string</td>
+        <td>Customer Acqusition</td>
         <td>Name of the Company</td>
     </tr>
     <tr>
         <td>Segment</td>
+        <td>string</td>
+        <td>Customer Acqusition</td>
         <td>Customer Occupation</td>
     </tr>    
-  </table>
-</div>
-<i><b>Table-1 : Customer Acqusition</b></i>
-<div class="w3-container"><br>
-  <table class="w3-table-all w3-card-4">
-    <tr>
-      <th>Field</th>
-      <th>Description</th>
-    </tr>
     <tr>
       <td>Sl No:</td>
+      <td>integer</td>
+      <td>Spend</td>
       <td>Count of rows</td>
     </tr>
     <tr>
       <td>Costomer</td>
+      <td>string</td>
+      <td>Spend</td>
       <td>Name of Customer</td>
     </tr>
     <tr>
       <td>Month</td>
+      <td>date</td></td>
+      <td>Spend</td>
       <td>Date</td>
     </tr>
     <tr>
       <td>Type</td>
+      <td>string</td>
+      <td>Spend</td>
       <td>Types of Expenses</td>
     </tr>
     <tr>
         <td>Amount</td>
+        <td>decimal</td>
+        <td>Spend</td>
         <td>Spend of Customer</td>
-    </tr>
-  </table>
-</div>
-<i><b>Table-2 : Spend</b></i>
-<div class="w3-container"><br>
-  <table class="w3-table-all w3-card-4">
-    <tr>
-      <th>Field</th>
-      <th>Description</th>
     </tr>
     <tr>
       <td>SL No:</td>
+      <td>integer</td>
+      <td>Repayment</td>
       <td>Count of rows</td>
     </tr>
     <tr>
       <td>Costomer</td>
+      <td>string</td>
+      <td>Repayment</td>
       <td>Name of Customer</td>
     </tr>
     <tr>
       <td>Month</td>
+      <td>date</td>
+      <td>Repayment</td>
       <td>Credit Card Payment Date</td>
     </tr>
     <tr>
         <td>Amount</td>
+        <td>integer</td>
+        <td>decimal</td>
         <td>Credit Card Payment Amount</td>
     </tr>
   </table>
-</div><i><b>Table-3 : Repayment</b></i>
-
+</div>
 
 
 ## DATA ANALYTICS PROCESS
