@@ -164,7 +164,16 @@ delivering training to aspiring Graduates. </p>
 
 
 ## DATA ANALYTICS PROCESS
-<img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400"> 
+<img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400">
+
+## METHODOLOGY
+### Objective
+### Data Gathering or Collection - 
+<p>Data collection is the methodological process of gathering information. Collecting data is an 
+integral part of a business’s success. it can enable us to ensure the data’s accuracy, completeness, and relevance to our organization and the issue at hand. The information gathered allows organizations to analyze past strategies and stay informed on what needs to change.</p>
+<p>In this project we will use “Credit Banking Dataset”.Which is an Excel workbook (.xlsx) file.
+</p>
+
 
 
 
