@@ -223,10 +223,17 @@ Then we will read data from different sheets using read_excel() function and sto
                     <li>Invalid / Missing data
                         <ul>
                             <li>Provide a meaningful treatment to all values where age is less than 18.</li>
-                            <p>As we can see there are 22 customers who are below 18 years of age so we have                                  to handle this invalid data:-
-                                Droping of these records are not a good solution because we only have 100                                     records if we do so it can be a reason of information loss. 
-                                One of the solution is we can impute these entries using mean/median.
-                                As we can see our data is free from outliers. In this case mean can be a good                                 choise to impute.</p>
+                            <p>As we can see there are 22 customers who are below 18 years of age so we have                                  to handle this invalid data:-</p>
+                                <ul>
+                                    <li>Droping of these records are not a good solution because we only have 
+                                        100 records if we do so it can be a reason of information loss.</li>
+                                    <li>One of the solution is we can impute these entries using mean/median. 
+                                        </li>
+                                    <li>As we can see our data is free from outliers. In this case mean can 
+                                        be a good choise to impute.</li>
+                                </ul>
+                                
+                                
                         </ul>
                     </li>
                 </ol>
