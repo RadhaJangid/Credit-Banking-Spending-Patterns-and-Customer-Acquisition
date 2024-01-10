@@ -204,7 +204,17 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Check descriptive statistics of numerical variables.</li>
 </ul>
 
-##### Table-1: Customer Acqusition
+##### Table-1: Customer Acqusition: 
+      <ul>
+      <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count of 
+          rows hence we can ignore this column.</li>
+      <li>The average age is 40.146505 but there are 22 customers in the dataset who are below 18 years, this 
+          is an invalid value for the age column because the age must be at least 18 years to hold a credit 
+          card, so they are not eligible to hold the card.Therefore descriptive statistics(25%-50%-75%) is 
+          not appropriate.</li>
+      </ul>
+      
+ 
 ##### Table-2: Spend
 ##### Table-3: Repayment
 
