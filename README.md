@@ -214,7 +214,12 @@ Then we will read data from different sheets using read_excel() function and sto
                 </ol>
      </li>
 </ul>
-<h2>MERGING DATA</h2>
+<h2>Merging Data</h2>
+<ul>
+    <li>Merge Customer and Spend , Customer and Repayment</li>
+    <li>Merge Customer , Spend, Repayment dataset</li>
+</ul>
+
 
 
 
