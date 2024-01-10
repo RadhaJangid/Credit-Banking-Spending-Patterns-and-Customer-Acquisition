@@ -201,7 +201,8 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
     <li>Checking data types of all columns.</li>
     <li>Consize summary of dataframe.</li>
-    <li>Check descriptive statistics of numerical variables.<h4> Observation : </h4>
+    <li>Check descriptive statistics of numerical variables.
+        <h4> Observation : </h4>
         <ul>
             <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count 
                 of rows hence we can ignore this column.</li>
@@ -211,7 +212,14 @@ Then we will read data from different sheets using read_excel() function and sto
                 statistics(25%-50%-75%) is not appropriate.</li>
         </ul>      
     </li>
+    <li> Missing data :- Initial intuition   
+        <ul>
+            <li>Here we don't have missing data.</li>
+        </ul>
+    </li>
+    
 </ul>
+
 
 
       
