@@ -43,7 +43,7 @@
     <li>Data Analysis And Business Insides</li>    
 </ol>
 
-## ACKNOWLEDGMENT
+# ACKNOWLEDGMENT
 <p>There are many people who contributed to my work on this Project. I owe my gratitude to all of 
 them who have made this Project possible.</p>
 <p> I am grateful to the entire team at <b>Edulyt India</b> for providing necessary facilities and permitting me to carry out this project in the organization. I would especially like to thank <b>Mr. Lalit 
@@ -51,10 +51,10 @@ Chaudhary</b> for providing me this wonderful opportunity to work on this projec
 continuous guidance and support throughout the project.
 </p>
 
-## INTRODUCTION
-### About The Project -
-### Scope
-### About the Organization - 
+# INTRODUCTION
+## About The Project -
+## Scope
+## About the Organization - 
 <p>
     Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
@@ -65,7 +65,7 @@ expertise lies in making the Graduates industry ready. We are highly skilled and
 delivering training to aspiring Graduates. </p>
 
 
-## DATASET INFO
+# DATASET INFO
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
     <tr>
@@ -180,11 +180,11 @@ delivering training to aspiring Graduates. </p>
 </div>
 
 
-## DATA ANALYTICS PROCESS
+# DATA ANALYTICS PROCESS
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400">
 
 
-### Loading Dataset- 
+## Loading Dataset- 
 <p>In this project we will use “Credit Banking Dataset”.
 First, we will load data from an Excel file using the Pandas.ExcelFile() function, the data is available in three worksheets. The names of the worksheets are - 
     <ul>
@@ -194,25 +194,27 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
     </ul>
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
-### Basic Data Analysis - 
-#### We will:
+## Basic Data Analysis - Table-1 : Customer Acqusition
+### We will:
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
     <li>Checking data types of all columns.</li>
     <li>Consize summary of dataframe.</li>
-    <li>Check descriptive statistics of numerical variables.</li>
+    <li>Check descriptive statistics of numerical variables.
+        <ul>
+            <p><b>Observations:</b></p>
+            <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count 
+                of rows hence we can ignore this column.</li>
+            <li>The average age is 40.146505 but there are 22 customers in the dataset who are below 18 
+                years, this is an invalid value for the age column because the age must be at least 18 years 
+                to hold a credit card, so they are not eligible to hold the card.Therefore descriptive 
+                statistics(25%-50%-75%) is not appropriate.</li>
+        </ul>      
+    </li>
 </ul>
 
-##### Table-1: Customer Acqusition Observation: 
-<ul>
-    <li>S1 No is a numerical attribute but it does not play a vital role in analysis it just a count of rows 
-        hence we can ignore this column.</li>
-    <li>The average age is 40.146505 but there are 22 customers in the dataset who are below 18 years, this 
-        is an invalid value for the age column because the age must be at least 18 years to hold a credit 
-        card, so they are not eligible to hold the card.Therefore descriptive statistics(25%-50%-75%) is not 
-        appropriate.</li>
-</ul>      
+
       
  
 
