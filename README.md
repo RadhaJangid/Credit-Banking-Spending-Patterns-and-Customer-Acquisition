@@ -204,6 +204,11 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Check descriptive statistics of numerical variables.</li>
 </ul>
 
+##### Table-1: Customer Acqusition
+##### Table-2: Spend
+##### Table-3: Repayment
+
+
 
 
 
