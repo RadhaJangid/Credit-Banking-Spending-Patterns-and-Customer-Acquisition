@@ -215,8 +215,7 @@ Then we will read data from different sheets using read_excel() function and sto
       </ul>
       
  
-##### Table-2: Spend
-##### Table-3: Repayment
+
 
 
 
