@@ -172,8 +172,8 @@ delivering training to aspiring Graduates. </p>
     </tr>
     <tr>
         <td>Amount</td>
-        <td>integer</td>
         <td>decimal</td>
+        <td>Repayment</td>
         <td>Credit Card Payment Amount</td>
     </tr>
   </table>
