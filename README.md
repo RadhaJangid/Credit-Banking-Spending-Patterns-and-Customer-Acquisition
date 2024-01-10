@@ -220,8 +220,15 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Merge Customer , Spend, Repayment dataset</li>
 </ul>
 <h2>EDA(Exploratory data analysis) - Data Exploration</h2>
-<ol>
-    <li>Plot distibution of individual predictors</li>
+<ol type="1">
+    <li>Plot distibution of individual predictors.
+        <ul>
+            <li>Univariate Analysis</li>
+            <li>Bivariate Analysis</li>
+        </ul>
+    </li>
+    <li>Convert all the categorical variables into dummy variables.</li>
+    <li>Build a corelation of all predictors.</li>
 </ol>
 
 
