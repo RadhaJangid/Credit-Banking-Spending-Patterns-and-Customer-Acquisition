@@ -22,10 +22,10 @@ delivering training to aspiring Graduates. </p>
 <p style="font-family:courier;">The Repayment dataset focuses on customer repayments. This dataset allows tracking customer repayment behaviors and understanding how timely repayments correlate with other financial aspects. </p>
 
 <h2 style="font-family:verdana;">Project Details</h2>
-<h5 style="font-family:verdana;">Internship : Edulyt India</h5>
-<h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
-<h5 style="font-family:verdana;">Project Type : Data Analysis</h5>
-<h5 style="font-family:verdana;">Features : </h5>
+<h4 style="font-family:verdana;">Internship : Edulyt India</h4>
+<h4 style="font-family:verdana;">Domain/Field : Analytics</h4>
+<h4 style="font-family:verdana;">Project Type : Data Analysis</h4>
+<h4 style="font-family:verdana;">Features : </h4>
   <p style="font-family:verdana;">
      ⚡Python Programming Language<br>
      ⚡EDA [For insights gathering and analysis]<br>
