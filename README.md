@@ -26,15 +26,9 @@ Project Type: Data Analysis
 ⚡Pandas [For working with datasets/For analyzing, cleaning, exploring, and manipulating data]<br>
 ⚡Matplotlib & Seaborn [For answer some business questions in the form of visuals]<br>
 ⚡Statistics [For calculating  mathematical statistics of numeric data]
+⚡Google Colab
 
- # How to Use
-This repository contains the python file used for the data analysis. Feel free to explore the code and findings.
-
-# Acknowledgments
-<p> I am grateful to the entire team at <b>Edulyt India</b> for providing necessary facilities and permitting me to carry out this project in the organization. I would especially like to thank <b>Mr. Lalit 
-Chaudhary</b> for providing me this wonderful opportunity to work on this project and for their 
-continuous guidance and support throughout the project.
-</p>
+ 
 
 
 
@@ -206,3 +200,8 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Build a corelation of all predictors.</li>
 </ol>
 
+# How to Use
+This repository includes a Python file for data analysis. Feel free to delve into the code and explore the insights.
+
+<h2 style="font-family:verdana;">Acknowledgments</h2>
+<p style="font-family:courier;">I would like to express my gratitude to the entire team of <b>EduLyt India</b> for providing the necessary facilities and allowing me to complete this project in the organization. I would especially like to thank <b>Mr. Lalit Chaudhary</b> for providing me with this wonderful opportunity to work on this project, gaining experience in data analysis, and for his constant guidance and support throughout the project.</p>
