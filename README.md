@@ -162,30 +162,42 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
 <h4 style="font-family:verdana;">Basic Data Analysis</h4>
+<p style="font-family:courier;">Several basic steps are used in the process of exploring and understanding data, such as :
 <ul>
-    <li>Look at the top/bottom 5 records of data.</li>
-    <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
-    <li>Checking data types of all columns.</li>
-    <li>Consize summary of dataframe.</li>
-    <li>Check descriptive statistics of numerical variables.</li> 
-    <li>Missing data :- Initial intuition</li>
-    <li>Data Cleaning
-                <ol type = "1">
-                    <li>Create a copy of base data for manupulation & processing.</li>
-                    <li>Converting the date into year and month columns</li>
-                    <li>Rename Costomer column as Customer</li>
-                    <li>Invalid / Missing data</li>
-                    <li>Invalid value Treatment</li>
-                    <li>Feature Binning</li>
-                    <li>Remove columns not required for processing.</li>
-                </ol>
-     </li>
-</ul>
-<h2>Merging Data</h2>
-<ul>
-    <li>Merge Customer and Spend , Customer and Repayment</li>
-    <li>Merge Customer , Spend, Repayment dataset</li>
-</ul>
+  <li>Display Top & Bottom 5 rows</li>
+  <li>Check the various attributes of data like shape (rows and columns), Columns, datatypes</li>
+  <li>Consize summary of dataframe</li>
+  <li>Value count for categorical columns</li>
+  <li>Descriptive statistics of numeric columns</li>
+</ul> 
+</p>
+<h4 style="font-family:verdana;">Data Cleaning and Preprocessing</h4>
+<p style="font-family:courier;">
+  <ol>
+    <li>Null or Missing Value Check</li>
+    <li>Altering column size</li>
+    <li>Missing Value Treatement</li>
+    <li>Handling Invalid Data
+        <ul>
+          <li>Provide a meaningful treatment to all values where age is less than 18.</li>
+          <li>Identify where monthly spend is more than the limit and then impose a 2% of penalty of credit                 limit.</li>
+          <li>Identity where the repayment is more than the spend then give them a credit of 2% of their                    credit limit in the next month biling.</li>
+          <li>Convert date columns to datetime format</li>
+        </ul>
+    </li>
+    <li>Converting the date into year and month columns as further processing can be easier.</li>
+    <li>Rename Costomer column as Customer.</li>
+    <li>Remove columns not required for processing.</li>
+    <li>Merge datasets
+        <ul>
+        <li>Merge Customer and Spend , Customer and Repayment</li>
+        <li>Merge Customer , Spend, Repayment dataset</li>
+        </ul>
+    </li>
+  </ol>
+</p>
+
+
 <h2>EDA(Exploratory data analysis) - Data Exploration</h2>
 <ol type="1">
     <li>Plot distibution of individual predictors.
