@@ -1,4 +1,3 @@
-# 
 <h1 style="font-family:verdana;">Credit Banking Spending Patterns and Customer Acquisition</h1> 
 <h2 style="font-family:verdana;">Overview</h2>
 <p style="font-family:courier;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on Credit Banking Spending Patterns and Customer Acquisition. Using Python, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
@@ -33,16 +32,8 @@ delivering training to aspiring Graduates. </p>
      ⚡Matplotlib & Seaborn [For answer some business questions in the form of visuals]<br>
      ⚡Statistics [For calculating  mathematical statistics of numeric data]<br>
      ⚡Google Colab</p>
-  
 
-
-
-
-
-
-
-
-# DATASET INFO
+<h2 style="font-family:verdana;">DATASET INFO</h2>
 <div class="w3-container">
   <table class="w3-table-all w3-card-4">
     <tr>
@@ -156,13 +147,11 @@ delivering training to aspiring Graduates. </p>
   </table>
 </div>
 
-
-
-# DATA ANALYTICS PROCESS
+<h2 style="font-family:verdana;">DATA ANALYTICS PROCESS</h2>
 <img src="Data_Analytics_Process.png" alt="Data Analytics Process" width="500" height="400">
 
-# METHODOLOGY
-<h2>Loading Dataset</h2> 
+<h2 style="font-family:verdana;">METHODOLOGY</h2>
+<h4 style="font-family:verdana;">Loading Dataset</h4>
 <p>In this project we will use “Credit Banking Dataset”.
 First, we will load data from an Excel file using the Pandas.ExcelFile() function, the data is available in three worksheets. The names of the worksheets are - 
     <ul>
