@@ -175,7 +175,6 @@ Then we will read data from different sheets using read_excel() function and sto
 <p style="font-family:courier;">
   <ol>
     <li>Null or Missing Value Check</li>
-    <li>Altering column size</li>
     <li>Missing Value Treatement</li>
     <li>Handling Invalid Data
         <ul>
@@ -185,7 +184,6 @@ Then we will read data from different sheets using read_excel() function and sto
           <li>Convert date columns to datetime format</li>
         </ul>
     </li>
-    <li>Converting the date into year and month columns as further processing can be easier.</li>
     <li>Rename Costomer column as Customer.</li>
     <li>Remove columns not required for processing.</li>
     <li>Merge datasets
