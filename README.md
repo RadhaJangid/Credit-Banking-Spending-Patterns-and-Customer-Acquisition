@@ -200,8 +200,9 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Build a corelation of all predictors.</li>
 </ol>
 
-# How to Use
-This repository includes a Python file for data analysis. Feel free to delve into the code and explore the insights.
+
+<h2 style="font-family:verdana;">How to Use</h2>
+<p style="font-family:courier;">This repository includes a Python file for data analysis. Feel free to delve into the code and explore the insights.</p>
 
 <h2 style="font-family:verdana;">Acknowledgments</h2>
 <p style="font-family:courier;">I would like to express my gratitude to the entire team of <b>EduLyt India</b> for providing the necessary facilities and allowing me to complete this project in the organization. I would especially like to thank <b>Mr. Lalit Chaudhary</b> for providing me with this wonderful opportunity to work on this project, gaining experience in data analysis, and for his constant guidance and support throughout the project.</p>
