@@ -1,17 +1,17 @@
-# Credit-Banking-Spending-Patterns-and-Customer-Acquisition
-# About the Organization - 
-<p>
-    Edulyt India is an early age start-up working towards reducing the Gap between Education & 
+# 
+<h1 style="font-family:verdana;">Credit Banking Spending Patterns and Customer Acquisition</h1> 
+<h2 style="font-family:verdana;">Overview</h2>
+<p style="font-family:courier;">As a Data Analytics Intern at <b>EduLyt India</b>, I engaged in a comprehensive project focused on Credit Banking Spending Patterns and Customer Acquisition. Using Python, I delved deep into the datasets, extracting valuable insights for informed decision-making in e-commerce sector. This experience not only showcased my analytical skills but also highlighted my meaningful contribution during my internship at <b>EduLyt India</b>.
+</p>
+<h2 style="font-family:verdana;">About the Organization</h2> 
+<P style="font-family:courier;">
+Edulyt India is an early age start-up working towards reducing the Gap between Education & 
 Employment, founded in 2015 with a mission to train fresh graduates. Disrupting the education 
 management sector mainly focused on the field of Analytics. 
 Our core area of working is in Data Analytics for BFSI domain. 
 Our team is working on basic AI tools to make the world a better easier place to live. Our core 
 expertise lies in making the Graduates industry ready. We are highly skilled and trained in 
 delivering training to aspiring Graduates. </p>
-
-# Overview
-
-
 
 # Dataset Used - 
 
@@ -52,106 +52,107 @@ continuous guidance and support throughout the project.
       <td>Sl No:</td>
       <td>integer</td>
       <td>Customer Acqusition</td>
-      <td>Count of rows</td>
+      <td>Unique identifier for each record</td>
     </tr>
     <tr>
       <td>Customer</td>
       <td>string</td>
       <td>Customer Acqusition</td>
-      <td>Name of Customer</td>
+      <td>Contains identifiers of the customers</td>
     </tr>
     <tr>
       <td>Age</td>
       <td>decimal</td>
       <td>Customer Acqusition</td>
-      <td>Age of Customer</td>
+      <td>Age of customers</td>
     </tr>
     <tr>
       <td>City</td>
       <td>string</td>
       <td>Customer Acqusition</td>
-      <td>Customer's City</td>
+      <td>The city where the customer resides</td>
     </tr>
     <tr>
         <td>Credit Card Product</td>
         <td>string</td>
         <td>Customer Acqusition</td>
-        <td>Types of Credit Cards</td>
+        <td>The type of the credit card product acquired by the customer</td>
     </tr>
     <tr>
         <td>Limit</td>
         <td>integer</td>
         <td>Customer Acqusition</td>
-        <td>Credit Card Limit</td>
+        <td>Credit limit associated with each customer's credit card</td>
     </tr>
     <tr>
         <td>Company</td>
         <td>string</td>
         <td>Customer Acqusition</td>
-        <td>Name of the Company</td>
+        <td>The company or financial institution providing the credit card product</td>
     </tr>
     <tr>
         <td>Segment</td>
         <td>string</td>
         <td>Customer Acqusition</td>
-        <td>Customer Occupation</td>
+        <td>Customer segment to which each customer belongs</td>
     </tr>    
     <tr>
       <td>Sl No:</td>
       <td>integer</td>
       <td>Spend</td>
-      <td>Count of rows</td>
+      <td>Unique identifier for each record</td>
     </tr>
     <tr>
       <td>Costomer</td>
       <td>string</td>
       <td>Spend</td>
-      <td>Name of Customer</td>
+      <td>Identifiers of customers associated with spending records.</td>
     </tr>
     <tr>
       <td>Month</td>
       <td>date</td></td>
       <td>Spend</td>
-      <td>Date</td>
+      <td>Date indicating when the spending occurred</td>
     </tr>
     <tr>
       <td>Type</td>
       <td>string</td>
       <td>Spend</td>
-      <td>Types of Expenses</td>
+      <td>Type of spending</td>
     </tr>
     <tr>
         <td>Amount</td>
         <td>decimal</td>
         <td>Spend</td>
-        <td>Spend of Customer</td>
+        <td>The amount spent in the respective spending type</td>
     </tr>
     <tr>
       <td>SL No:</td>
       <td>integer</td>
       <td>Repayment</td>
-      <td>Count of rows</td>
+      <td>Unique identifier for each record</td>
     </tr>
     <tr>
       <td>Costomer</td>
       <td>string</td>
       <td>Repayment</td>
-      <td>Name of Customer</td>
+      <td>Identifiers of customers associated with repayment records.</td>
     </tr>
     <tr>
       <td>Month</td>
       <td>date</td>
       <td>Repayment</td>
-      <td>Credit Card Payment Date</td>
+      <td>Date or timestamp indicating when the repayment occurred</td>
     </tr>
     <tr>
         <td>Amount</td>
         <td>decimal</td>
         <td>Repayment</td>
-        <td>Credit Card Payment Amount</td>
+        <td>The amount repaid by the customer in the respective month</td>
     </tr>
   </table>
 </div>
+
 
 
 # DATA ANALYTICS PROCESS
