@@ -215,7 +215,7 @@ Then we will read data from different sheets using read_excel() function and sto
     <li>Convert all the categorical variables into dummy variables.</li>
     <li>Build a corelation of all predictors.</li>
 </ol>
-<h6>Please refer python file.</h6>
+<h6>Please see python file for more details.</h6>
 
 <h2 style="font-family:verdana;">How to Use</h2>
 <p style="font-family:courier;">This repository includes a Python file for data analysis. Feel free to delve into the code and explore the insights.</p>
