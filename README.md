@@ -203,7 +203,7 @@ Then we will read data from different sheets using read_excel() function and sto
 </p>
 
 
-<h2>EDA(Exploratory data analysis) - Data Exploration</h2>
+<h2 style="font-family:verdana;">EDA(Exploratory data analysis)</h2>
 <ol type="1">
     <li>Plot distibution of individual predictors.
         <ul>
