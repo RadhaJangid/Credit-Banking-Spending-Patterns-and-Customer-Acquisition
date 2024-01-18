@@ -13,22 +13,31 @@ Our team is working on basic AI tools to make the world a better easier place to
 expertise lies in making the Graduates industry ready. We are highly skilled and trained in 
 delivering training to aspiring Graduates. </p>
 
-# Dataset Used - 
+<h2 style="font-family:verdana;">Dataset Used</h2>
+<h4 style="font-family:verdana;">Customer Acquisition :</h4>
+<p style="font-family:courier;">The Customer Acquisition dataset contains information about individuals acquiring credit card products. This dataset helps in understanding customer demographics and acquisition details.</p>
+<h4 style="font-family:verdana;">Spend : </h4>
+<p style="font-family:courier;">The Spend dataset captures spending patterns, associating customers with different spending categories.This dataset provides insights into how customers distribute their expenditures across various categories over time.</p>
+<h4 style="font-family:verdana;">Repayment : </h4>
+<p style="font-family:courier;">The Repayment dataset focuses on customer repayments. This dataset allows tracking customer repayment behaviors and understanding how timely repayments correlate with other financial aspects. </p>
 
-# Project Details
-Internship: Edulyt India
-Domain : Data Analytics
-Project Type: Data Analysis
+<h2 style="font-family:verdana;">Project Details</h2>
+<h5 style="font-family:verdana;">Internship : Edulyt India</h5>
+<h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
+<h5 style="font-family:verdana;">Project Type : Data Analysis</h5>
+<h5 style="font-family:verdana;">Features:
+  <p>⚡Python Programming Language
+     ⚡EDA [For insights gathering and analysis]<br>
+     ⚡Pandas [For working with datasets/For analyzing, cleaning, exploring, and manipulating data]<br>
+     ⚡Matplotlib & Seaborn [For answer some business questions in the form of visuals]<br>
+     ⚡Statistics [For calculating  mathematical statistics of numeric data]
+     ⚡Google Colab</p>
+  
+</h5>
 
-# Features
-⚡Python Programming Language<br>
-⚡EDA [For insights gathering and analysis]<br>
-⚡Pandas [For working with datasets/For analyzing, cleaning, exploring, and manipulating data]<br>
-⚡Matplotlib & Seaborn [For answer some business questions in the form of visuals]<br>
-⚡Statistics [For calculating  mathematical statistics of numeric data]
-⚡Google Colab
 
- 
+
+
 
 
 
