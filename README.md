@@ -185,6 +185,7 @@ Then we will read data from different sheets using read_excel() function and sto
         </ul>
     </li>
     <li>Rename Costomer column as Customer.</li>
+    <li>Removing Duplicate Columns.</li>
     <li>Remove columns not required for processing.</li>
     <li>Merge datasets
         <ul>
@@ -193,6 +194,12 @@ Then we will read data from different sheets using read_excel() function and sto
         </ul>
     </li>
   </ol>
+</p>
+
+<h4 style="font-family:verdana;">Feature Engineering</h4>
+<p style="font-family:courier;">
+   Created new features like Category, Age_bins, date, year,Penality, Cashback, Monthly_Bank_Profit.
+   Converting the date into year and month columns as further processing can be easier.
 </p>
 
 
