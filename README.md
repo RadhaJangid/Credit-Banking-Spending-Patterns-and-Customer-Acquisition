@@ -161,7 +161,7 @@ First, we will load data from an Excel file using the Pandas.ExcelFile() functio
     </ul>
 Then we will read data from different sheets using read_excel() function and store the data in a DataFrame object.</p>
 
-<h2>Basic Data Analysis</h2>
+<h4 style="font-family:verdana;">Basic Data Analysis</h4>
 <ul>
     <li>Look at the top/bottom 5 records of data.</li>
     <li>Check various attributes of data like shape (rows and columns), columns, datatype.</li>
