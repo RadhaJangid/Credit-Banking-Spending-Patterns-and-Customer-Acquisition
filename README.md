@@ -26,11 +26,12 @@ delivering training to aspiring Graduates. </p>
 <h5 style="font-family:verdana;">Domain/Field : Analytics</h5>
 <h5 style="font-family:verdana;">Project Type : Data Analysis</h5>
 <h5 style="font-family:verdana;">Features : </h5>
-  <p style="font-family:verdana;">⚡Python Programming Language
+  <p style="font-family:verdana;">
+     ⚡Python Programming Language<br>
      ⚡EDA [For insights gathering and analysis]<br>
      ⚡Pandas [For working with datasets/For analyzing, cleaning, exploring, and manipulating data]<br>
      ⚡Matplotlib & Seaborn [For answer some business questions in the form of visuals]<br>
-     ⚡Statistics [For calculating  mathematical statistics of numeric data]
+     ⚡Statistics [For calculating  mathematical statistics of numeric data]<br>
      ⚡Google Colab</p>
   
 
